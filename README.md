@@ -1,6 +1,6 @@
 # Santy 🧠
 
-**'Junior Frontend Developer'**
+**Junior Frontend Developer**
 
 ¡Hola Soy Santy, un apasionado de todo lo relacionado con el desarrollo web. Me encanta explorar nuevas tecnologías y desafiarme a mí mismo para crear soluciones web que realmente destaquen. Mi meta es convertir ideas en proyectos web increíbles y únicos, siempre buscando crecer y aprender algo nuevo. Creo firmemente en el aprendizaje continuo para poder ofrecer lo mejor en cada proyecto.
 
@@ -19,12 +19,7 @@
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
 <img align="left" alt="Github" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg">
-<img align="left" alt="Terminal" width="30px" style="padding-right:10px;" src="./img/terminal-light.svg" />
 <br />
 <br />
 
 #
-
----
-
-[linkedin]: https://linkedin.com/in/santyt
