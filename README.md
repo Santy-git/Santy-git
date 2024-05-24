@@ -1,4 +1,4 @@
-# Santy 🧠
+# Santy 👨‍💻
 
 **Junior Frontend Developer**
 
