@@ -2,8 +2,7 @@
 
 **Junior Frontend Developer**
 
-Hola Soy Santy!😎, un apasionado de todo lo relacionado al desarrollo web. Me encanta explorar nuevas tecnologías y desafiarme a mí mismo creando proyectos que realmente destaquen. Mi meta es convertir ideas en páginas increíbles y únicas, siempre buscando crecer y aprender algo nuevo. Creo firmemente en el aprendizaje continuo para poder ofrecer siempre lo mejor de mi :D
-
+Hola Soy Santy!😎
 ---
 
 ## 🧰 Lenguajes y herramientas
