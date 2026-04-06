@@ -2,7 +2,7 @@
 
 **Junior Frontend Developer**
 
-Hola Soy Santy!😎
+Hola Soy Santy!
 ---
 
 ## 🧰 Lenguajes y herramientas
