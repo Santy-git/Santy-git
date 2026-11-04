@@ -9,10 +9,11 @@ JavaScript, Python y tecnologías web modernas.
 ## Tecnologías
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,svelte,astro,postgres,git,vscode" alt="HTML, CSS, JavaScript, TypeScript, Python, Svelte, Astro, PostgreSQL, Git y Visual Studio Code">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,astro,git,vscode" alt="HTML, CSS, JavaScript, TypeScript, Python, Astro, Git y Visual Studio Code">
 </p>
 
 ## Contacto
 
-[LinkedIn](https://www.linkedin.com/in/santiagotomas) ·
-[GitHub](https://github.com/Santy-git)
+<a href="https://www.linkedin.com/in/santiagotomas">
+  <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Perfil de LinkedIn">
+</a>
